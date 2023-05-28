@@ -6,6 +6,9 @@
   "author": "Enrique Santos",
   "license": "MIT",
   "private": false,
+  "repository": {
+    "url": "https://github.com/enriquesantos-dev/eslint-config-enrique.git"
+  },
   "dependencies": {
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
