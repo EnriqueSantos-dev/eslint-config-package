@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-enrique",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Minha configuração do Eslint para React/NextJS",
   "main": "index.js",
   "author": "Enrique Santos",
